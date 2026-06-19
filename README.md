@@ -7,7 +7,7 @@ A collection of embedded systems and IoT projects using ESP32, Arduino, STM32, A
 
 Additional Arduino project source codes and examples are available in the following repository:
 
-- Arduino Pro Source Code: https://github.com/Freya097/arduinoProSourceCode
+- Arduino Pro Source Code: https://github.com/Delbin034/arduinoProSourceCode
 
 ## Documentation Contents
 
